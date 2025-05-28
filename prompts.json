@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Professional Email Writer",
+    "prompt": "You are a professional email writer. Write a clear, concise, and polite email for [CONTEXT]. Make sure to include proper greetings, main message, and professional closing. Keep the tone [TONE] and ensure the email is appropriate for [AUDIENCE].",
+    "category": "Business",
+    "tags": ["email", "professional", "communication"]
+  },
+  {
+    "id": "2",
+    "title": "Code Review Assistant",
+    "prompt": "Review the following [PROGRAMMING_LANGUAGE] code and provide feedback on: 1) Code quality and best practices, 2) Potential bugs or issues, 3) Performance optimizations, 4) Security considerations, 5) Suggestions for improvement. Be specific and provide examples.",
+    "category": "Development",
+    "tags": ["code", "review", "programming"]
+  },
+  {
+    "id": "3",
+    "title": "Meeting Notes Summarizer",
+    "prompt": "Summarize the following meeting notes into key points, action items, and decisions made. Format the summary with clear sections: 1) Main Discussion Points, 2) Decisions Made, 3) Action Items with assigned owners and deadlines, 4) Next Steps. Keep it concise and actionable.",
+    "category": "Business",
+    "tags": ["meetings", "summary", "productivity"]
+  },
+  {
+    "id": "4",
+    "title": "Product Description Writer",
+    "prompt": "Write a compelling product description for [PRODUCT_NAME]. Include key features, benefits, target audience, and a strong call-to-action. The description should be [LENGTH] and optimized for [PLATFORM]. Highlight what makes this product unique and why customers should choose it over competitors.",
+    "category": "Marketing",
+    "tags": ["product", "description", "ecommerce", "copywriting"]
+  },
+  {
+    "id": "5",
+    "title": "Interview Question Generator",
+    "prompt": "Generate [NUMBER] interview questions for a [JOB_POSITION] role at a [COMPANY_TYPE] company. Include a mix of technical, behavioral, and situational questions. Questions should assess [SKILL_AREAS] and be appropriate for [EXPERIENCE_LEVEL] candidates. Provide brief guidance on what to look for in answers.",
+    "category": "Business",
+    "tags": ["interview", "hiring", "questions", "hr"]
+  },
+  {
+    "id": "6",
+    "title": "Creative Story Generator",
+    "prompt": "Create an engaging short story about [TOPIC] with the following elements: Setting: [SETTING], Main character: [CHARACTER], Conflict: [CONFLICT]. The story should be approximately [LENGTH] words and have a [TONE] tone. Include vivid descriptions and dialogue.",
+    "category": "Creative",
+    "tags": ["story", "creative", "writing"]
+  },
+  {
+    "id": "7",
+    "title": "Social Media Content Creator",
+    "prompt": "Create engaging social media content for [PLATFORM] about [TOPIC]. Include relevant hashtags, call-to-action, and make it suitable for [TARGET_AUDIENCE]. The content should be [TONE] and encourage [DESIRED_ACTION]. Keep it within character limits.",
+    "category": "Marketing",
+    "tags": ["social media", "marketing", "content"]
+  },
+  {
+    "id": "8",
+    "title": "Learning Plan Creator",
+    "prompt": "Create a comprehensive learning plan for [SUBJECT/SKILL] suitable for [SKILL_LEVEL] learners. Include: 1) Learning objectives, 2) Weekly breakdown, 3) Resources and materials, 4) Practice exercises, 5) Assessment methods. The plan should span [DURATION] and accommodate [TIME_COMMITMENT] per week.",
+    "category": "Education",
+    "tags": ["learning", "education", "planning"]
+  },
+  {
+    "id": "9",
+    "title": "Blog Post Outline Creator",
+    "prompt": "Create a detailed blog post outline for the topic '[BLOG_TOPIC]'. The post should be approximately [WORD_COUNT] words and target [AUDIENCE]. Include: 1) Compelling headline, 2) Introduction hook, 3) Main sections with subheadings, 4) Key points for each section, 5) Conclusion with call-to-action. Optimize for SEO with relevant keywords.",
+    "category": "Content",
+    "tags": ["blog", "outline", "content", "seo"]
+  },
+  {
+    "id": "10",
+    "title": "Customer Support Response",
+    "prompt": "Write a professional customer support response for [ISSUE_TYPE]. The customer is [CUSTOMER_EMOTION] about [SPECIFIC_PROBLEM]. Acknowledge their concern, provide a clear solution or next steps, and maintain a [TONE] tone throughout. Include any relevant policy information and ensure the response is helpful and empathetic.",
+    "category": "Business",
+    "tags": ["customer service", "support", "communication"]
+  }
+]
