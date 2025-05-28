@@ -68,5 +68,12 @@
     "prompt": "Write a professional customer support response for [ISSUE_TYPE]. The customer is [CUSTOMER_EMOTION] about [SPECIFIC_PROBLEM]. Acknowledge their concern, provide a clear solution or next steps, and maintain a [TONE] tone throughout. Include any relevant policy information and ensure the response is helpful and empathetic.",
     "category": "Business",
     "tags": ["customer service", "support", "communication"]
+  },
+  {
+    "id": "11",
+    "title": "Prompt Enhancer",
+    "prompt": "Given the user's initial prompt [ user prompt ], enhance it by starting with clear and precise instructions placed at the beginning. Specify the desired context, outcome, length, format, and style in detail to guide the response effectively. Where applicable, include examples of the expected output format, and use appropriate leading phrases—especially when the prompt involves tasks like code generation. Avoid vague or imprecise language, and instead of only stating what not to do, offer constructive direction on what should be done. Throughout, ensure that the revised prompt remains faithful to the user's original intent.",
+    "category": "Content",
+    "tags": ["Prompt Enhancer"]
   }
 ]
