@@ -75,5 +75,40 @@
     "prompt": "Given the user's initial prompt [ user prompt ], enhance it by starting with clear and precise instructions placed at the beginning. Specify the desired context, outcome, length, format, and style in detail to guide the response effectively. Where applicable, include examples of the expected output format, and use appropriate leading phrases—especially when the prompt involves tasks like code generation. Avoid vague or imprecise language, and instead of only stating what not to do, offer constructive direction on what should be done. Throughout, ensure that the revised prompt remains faithful to the user's original intent.",
     "category": "Content",
     "tags": ["Prompt Enhancer"]
+  },
+  {
+    "id": "12",
+    "title": "The Mental Operating System Overhaul",
+    "prompt": "Act as a world-class mindset architect. Rebuild my internal belief system from the ground up to reflect the identity of a high-performance, emotionally intelligent, confident, and successful individual. Begin by identifying common limiting beliefs I may be carrying based on cognitive distortions and psychological conditioning. Then, 'install' upgraded belief patterns that align with abundance, resilience, and leadership. Include clear daily mental scripts for reprogramming internal dialogue and a visual metaphor for this mental upgrade (e.g., 'mind software update'). End with a structured practice guide I can use each morning to reinforce the transformation.",
+    "category": "Mindset",
+    "tags": ["Self-Mastery", "Psychology", "Belief-System"]
+  },
+  {
+    "id": "13",
+    "title": "The Time-Travel Journal Hack",
+    "prompt": "Pretend it’s 10 years in the future and I have achieved every major goal I ever set: financially, emotionally, physically, and socially. Write a detailed and emotionally vivid journal entry from that future version of myself. Reflect on the key mindset shifts, tough decisions, identity upgrades, and non-negotiable habits I had to adopt to reach this level. Include vivid storytelling, realistic turning points, and brutally honest truths. Make it actionable, specific, and deeply motivational — as if I’m reading my own diary from a future I desperately want to live.",
+    "category": "Mindset",
+    "tags": ["Future-Self", "Journaling", "Productivity"]
+  },
+  {
+    "id": "14",
+    "title": "The Inner Critic Interrogation Protocol",
+    "prompt": "Guide me through a cognitive-behavioral interrogation of my inner critic. First, help me identify its tone, language, and likely origin (e.g., childhood, past failures, social comparison). Then, challenge the logic of its beliefs using CBT-style questioning: Is it true? Is it useful? Is there evidence? Once dismantled, introduce an empowered 'inner coach' persona — with a defined voice, tone, and empowering language I can use in high-stakes or self-doubt moments. Include example scripts for before presentations, when facing rejection, or during self-doubt spirals.",
+    "category": "Mindset",
+    "tags": ["CBT", "Mindset", "Self-Improvement"]
+  },
+  {
+    "id": "15",
+    "title": "The Unshakeable Identity Blueprint",
+    "prompt": "Help me design a detailed blueprint for my ideal identity. Guide me in defining who I want to become — including how that version of me thinks, responds to adversity, makes decisions, communicates, and protects their energy. Once defined, reverse-engineer daily practices, behavior triggers, and micro-habits I can start implementing today. Provide examples of how to shift language, reshape my environment, and respond under pressure to stay aligned with this identity. Treat this like a personal operating manual for the best version of myself.",
+    "category": "Mindset",
+    "tags": ["Self-Image", "Behavior Design", "Personal Growth"]
+  },
+  {
+    "id": "16",
+    "title": "The Thought Audit System",
+    "prompt": "Build me a 30-day system for auditing and upgrading my thoughts. Each day should include a powerful and slightly uncomfortable prompt designed to reveal limiting beliefs, emotional blind spots, or buried desires. Structure the prompts to increase in depth over time. Include a journaling framework to track recurring thoughts and patterns, plus a method to reframe persistent negative loops. End with a weekly reflection template that connects insights to future actions.",
+    "category": "Mindset",
+    "tags": ["Journaling", "Mental Clarity", "Shadow Work"]
   }
 ]
