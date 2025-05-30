@@ -110,5 +110,12 @@
     "prompt": "Build me a 30-day system for auditing and upgrading my thoughts. Each day should include a powerful and slightly uncomfortable prompt designed to reveal limiting beliefs, emotional blind spots, or buried desires. Structure the prompts to increase in depth over time. Include a journaling framework to track recurring thoughts and patterns, plus a method to reframe persistent negative loops. End with a weekly reflection template that connects insights to future actions.",
     "category": "Mindset",
     "tags": ["Journaling", "Mental Clarity", "Shadow Work"]
+  },
+  {
+    "id": "17",
+    "title": "30-Day Mastery Blueprint",
+    "prompt": "I want to become highly skilled at [SKILL] starting from an absolute beginner level—create a structured 30-day learning plan that builds a strong foundation and gradually advances to intermediate proficiency. The plan should include daily tasks that combine theory and practice, weekly goals to track progress, key techniques to master, and hands-on applications or mini-projects. Also, include checkpoints for self-assessment, highlight common beginner challenges, and offer strategies to stay consistent and motivated throughout the learning journey.",
+    "category": "Learning & Skill Development",
+    "tags": ["learning plan", "education", "skill building", "30-day challenge", "self improvement"]
   }
 ]
