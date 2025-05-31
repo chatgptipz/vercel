@@ -117,5 +117,33 @@
     "prompt": "I want to become highly skilled at [SKILL] starting from an absolute beginner level—create a structured 30-day learning plan that builds a strong foundation and gradually advances to intermediate proficiency. The plan should include daily tasks that combine theory and practice, weekly goals to track progress, key techniques to master, and hands-on applications or mini-projects. Also, include checkpoints for self-assessment, highlight common beginner challenges, and offer strategies to stay consistent and motivated throughout the learning journey.",
     "category": "Learning & Skill Development",
     "tags": ["learning plan", "education", "skill building", "30-day challenge", "self improvement"]
+  },
+  {
+    "id": "18",
+    "title": "Content Ideas Prompt",
+    "prompt": "Part 1. \"I am a [insert who you are]. I help [your target audience] with/get [what you help them do/achieve/their desires]. Can you list five specific most common pain points of my ideal clients?\"\n\nPart 2. \"Can you create 10 specific educational real topics for each painpoint? Start the title with how to' or 'tips to'\"\n\nPart 3. \"Could you be more specific and use simple English\"",
+    "category": "Marketing",
+    "tags": ["content", "ideas", "pain points", "education", "audience"]
+  },
+  {
+    "id": "19",
+    "title": "Sales Page Rewriter",
+    "prompt": "Upload a photo of your IG Bio to Chat GPT then type this prompt:\n\"I sell a [enter main offer and what problem it solves], my target audience are who are trying to but are struggling with Below, I'm going to paste my sale page copy, can you please help me rewrite it to increase my sales?\nPlease make sure my sales page includes specific pain points and the biggest desires of my ideal customer while overcoming any potential objections they may have. Also, make sure it clearly explains the benefits and potential outcomes they will have because of my [course/product/offer].\nPlease add in copy that elicits emotion and uses the specific language of my ideal customer.\nHere is my current sales page copy:",
+    "category": "Copywriting",
+    "tags": ["sales page", "conversion", "copywriting", "emotional", "benefits"]
+  },
+  {
+    "id": "20",
+    "title": "Instagram Bio Generator",
+    "prompt": "Prompt: Please act as a social media expert for my business I help (who you help) (what you help them do/achieve) so that they can (what they desire). Please write me 10 Instagram bios, no more than 150 characters including emojis. Make each of the 10 bios three lines. Make each line a complete sentence, focusing on one desire of my target audience and beginning with an emoji.\nUse simple and common language. Please include the following keywords in each Bio: (three keywords or phrases your target audience is searching for/wants/needs)",
+    "category": "Social Media",
+    "tags": ["Instagram", "bio", "growth", "branding", "keywords"]
+  },
+  {
+    "id": "21",
+    "title": "Hook Enhancer",
+    "prompt": "\"I want you to act as a social media expert.\nPlease take the following 3 hooks and make them a lot better. Add relevant & popular keywords, more exciting adjectives, and overall, make them pop so the viewer stops their scroll to read them.\n\"[insert hook]\"\n\"[insert hook]\"\n\"[insert hook]\"\n(Insert your worse performing hooks)\"",
+    "category": "Social Media",
+    "tags": ["hooks", "social media", "copy", "engagement", "optimization"]
   }
 ]
